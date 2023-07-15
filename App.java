@@ -1,7 +1,5 @@
-//Student Name: Cem Parlar
-//Student McGill ID: 260776326
+import java.util.Random;
 
-import java.util.Random; //this creates random for our program
 public class App {
 
     private static int indexMin = 0;
