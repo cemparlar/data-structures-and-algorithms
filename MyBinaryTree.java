@@ -54,9 +54,8 @@ public class MyBinaryTree {
      */
     public static void basicPrint(BinaryTreeNode root, int n) {
         //printing the tree with recursion to do preorder order traversal (parent -> children order)
-        if (root == null) {
+        if (root == null)
             return;
-        }
         //printing the node with attribute values of its worker, its position (1 or 2), and its level in the tree by proportional space indentation
         System.out.println(root.getText(n));
         basicPrint(root.left,n+1);
