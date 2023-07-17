@@ -80,6 +80,5 @@ public class App {
 
         System.out.println("The recursive minimum is at location: " + indexMin2 + ". The value is: " + myArr[indexMin2]);
         System.out.println("The recursive minFinder method took: " + durationRec + " nanoseconds.");
-
     }
 }
