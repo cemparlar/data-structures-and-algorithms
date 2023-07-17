@@ -1,5 +1,3 @@
-//Name: Cem Parlar
-//McGill ID: 260776326
 import java.util.Arrays;
 import java.util.Scanner;
 
