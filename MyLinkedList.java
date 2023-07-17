@@ -1,5 +1,9 @@
+/**
+ * This class represents a linked list
+ * @param <E>
+ */
 public class MyLinkedList<E> {
-    // This class represents a linked list
+
     public Node head;
     public int size = 0;
 
